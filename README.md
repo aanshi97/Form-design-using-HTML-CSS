@@ -1,5 +1,5 @@
 # Form design using HTML and CSS
-## Output
+## Output :
 
 ## Output 1
 ![fo1](https://user-images.githubusercontent.com/64095824/94848270-680d0080-0441-11eb-9b9d-43581793d16e.png)
